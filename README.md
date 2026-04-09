@@ -12,3 +12,20 @@ Built:
 * My first HTML page
 
 ![Day 1 Screenshot](Day1/day1.png)
+
+Day 2 of My Web Development Journey
+
+Today I learned:
+
+* Heading tags (h1–h6)
+* Paragraph tag
+* Anchor tag & links
+
+Built:
+
+* A simple webpage with headings and a clickable link
+
+* Created my first working link 🔗
+
+#WebDevelopment #Day2 #100DaysOfCode
+
