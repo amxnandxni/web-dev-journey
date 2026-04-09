@@ -27,5 +27,4 @@ Built:
 
 * Created my first working link 🔗http://127.0.0.1:5500/Day2/Day2.html
 
-#WebDevelopment #Day2 #100DaysOfCode
 
