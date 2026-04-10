@@ -27,4 +27,14 @@ Built:
 
 * Created my first working link 🔗http://127.0.0.1:5500/Day2/Day2.html
   ![Day 2 Screenshot](Day2/day2.png)
+## Day 3
 
+- Learned images in HTML  
+- Lists (ordered & unordered)  
+- Tables  
+- Basics of SEO & Core Web Vitals  
+
+Built:
+- A webpage with image, list, and table  
+
+![Day 3 Screenshot](Day3/Day3.png)
