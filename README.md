@@ -38,3 +38,12 @@ Built:
 - A webpage with image, list, and table  
 
 ![Day 3 Screenshot](Day3/Day3.png)
+## Day 4
+
+- Learned inline vs block elements  
+- Forms and input tags  
+
+Built:
+- Student registration form  
+
+![Day 4 Screenshot](Day4/Day4.png)
