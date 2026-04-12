@@ -47,3 +47,14 @@ Built:
 - Student registration form  
 
 ![Day 4 Screenshot](Day4/Day4.png)
+## Day 5
+
+- Learned IDs and Classes in HTML  
+- Video tag  
+- Audio tag  
+- Iframe tag  
+
+Built:
+- A simple webpage using media elements  
+
+![Day 5 Screenshot](Day5/Day5.png)
