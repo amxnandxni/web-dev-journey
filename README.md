@@ -58,3 +58,17 @@ Built:
 - A simple webpage using media elements  
 
 ![Day 5 Screenshot](Day5/Day5.png)
+
+## Day 6
+
+- Learned semantic tags in HTML  
+- Created multiple video & audio elements  
+- Learned HTML entities and code tags  
+
+Built:
+- Final HTML practice project  
+
+Milestone:
+- Completed HTML basics 🎉  
+
+![Day 6 Screenshot](Day6/Day6.png)
