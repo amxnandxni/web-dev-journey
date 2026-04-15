@@ -72,3 +72,15 @@ Milestone:
 - Completed HTML basics 🎉  
 
 ![Day 6 Screenshot](Day6/Day6.png)
+
+## Day 8
+
+- Started CSS  
+- Selectors & declarations  
+- Inline, internal, external CSS  
+- Class, ID, child, descendant, universal, pseudo selectors  
+
+Built:
+- Styled webpage using different CSS methods  
+
+![Day 8 Screenshot](Day8/Day8.png)
