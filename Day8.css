@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+span{
+    color: crimson;
+    background-color: darkorange;
+}
+.red{
+    color: darkred;
+    background-color: darkslategray;
+}
+#green{
+    background-color: green;
+}
+div>p{
+    color: black;
+    background-color: rgb(10, 17, 235);
+}
+a:visited{
+   background-color: yellow;
+}
+a:active{
+    background-color: red;
+}
+a:hover{
+    background-color: blue;
+}
