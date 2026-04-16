@@ -84,3 +84,14 @@ Built:
 - Styled webpage using different CSS methods  
 
 ![Day 8 Screenshot](Day8/Day8.png)
+
+## Day 9
+
+- CSS box model (margin, padding, border, width)  
+- Typography (font, text styling)  
+- Colors (hex, rgb, hsl)  
+
+Built:
+- Personal profile page with styling  
+
+![Day 9 Screenshot](Day9/Day9.png)
