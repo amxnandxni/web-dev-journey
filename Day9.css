@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 650px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    background-color: rgb(216, 230, 245);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: rgb(100, 100, 100);
+}
+.section{
+    margin-top: 20px;
+    padding: 16px;
+    border: 1px solid #ccc;
+}
+.aboutme{
+    margin-top: 10px;
+    line-height: 1.6;
+    text-decoration: underline;
+    text-indent: 20px;
+    text-decoration-color: rgb(11, 101, 227);
+}
+.progress{
+    margin-top: 10px;
+    line-height: 1.6;
+}
+.section p{
+    color: #444;
+}
+.section>h2{
+    color: blue;
+}
