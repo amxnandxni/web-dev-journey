@@ -95,3 +95,13 @@ Built:
 - Personal profile page with styling  
 
 ![Day 9 Screenshot](Day9/Day9.png)
+
+## Day 10
+
+- CSS cascade algorithm  
+- CSS sizing units (px, vw, vh, em, rem, %)  
+
+Built:
+- Responsive card layout using CSS  
+
+![Day 10 Screenshot](Day10/Day10.png)
