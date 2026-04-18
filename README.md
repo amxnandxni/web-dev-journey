@@ -105,3 +105,14 @@ Built:
 - Responsive card layout using CSS  
 
 ![Day 10 Screenshot](Day10/Day10.png)
+
+## Day 11
+
+- CSS display (block, inline, inline-block, none)  
+- Difference between display and visibility  
+- Box shadow and outline  
+
+Built:
+- Improved UI with shadows and display properties  
+
+![Day 11 Screenshot](Day11/Day11.png)
