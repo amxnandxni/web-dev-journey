@@ -11,7 +11,7 @@ Built:
 
 * My first HTML page
 
-![Day 1 Screenshot](Day1/day1.png)
+![Day 1 Screenshot](Day01/day1.png)
 
 ## Day 2 of My Web Development Journey
 
@@ -26,7 +26,7 @@ Built:
 * A simple webpage with headings and a clickable link
 
 * Created my first working link 🔗http://127.0.0.1:5500/Day2/Day2.html
-  ![Day 2 Screenshot](Day2/day2.png)
+  ![Day 2 Screenshot](Day02/day2.png)
 ## Day 3
 
 - Learned images in HTML  
@@ -37,7 +37,7 @@ Built:
 Built:
 - A webpage with image, list, and table  
 
-![Day 3 Screenshot](Day3/Day3.png)
+![Day 3 Screenshot](Day03/Day3.png)
 ## Day 4
 
 - Learned inline vs block elements  
@@ -46,7 +46,7 @@ Built:
 Built:
 - Student registration form  
 
-![Day 4 Screenshot](Day4/Day4.png)
+![Day 4 Screenshot](Day04/Day4.png)
 ## Day 5
 
 - Learned IDs and Classes in HTML  
@@ -57,7 +57,7 @@ Built:
 Built:
 - A simple webpage using media elements  
 
-![Day 5 Screenshot](Day5/Day5.png)
+![Day 5 Screenshot](Day05/Day5.png)
 
 ## Day 6
 
@@ -71,7 +71,7 @@ Built:
 Milestone:
 - Completed HTML basics 🎉  
 
-![Day 6 Screenshot](Day6/Day6.png)
+![Day 6 Screenshot](Day06/Day6.png)
 
 ## Day 8
 
@@ -83,7 +83,7 @@ Milestone:
 Built:
 - Styled webpage using different CSS methods  
 
-![Day 8 Screenshot](Day8/Day8.png)
+![Day 8 Screenshot](Day08/Day8.png)
 
 ## Day 9
 
@@ -94,7 +94,7 @@ Built:
 Built:
 - Personal profile page with styling  
 
-![Day 9 Screenshot](Day9/Day9.png)
+![Day 9 Screenshot](Day09/Day9.png)
 
 ## Day 10
 
@@ -116,3 +116,13 @@ Built:
 - Improved UI with shadows and display properties  
 
 ![Day 11 Screenshot](Day11/Day11.png)
+
+## Day 12
+
+- CSS list styling  
+- Overflow properties (hidden, scroll, auto)  
+
+Built:
+- Styled list and overflow container inside UI  
+
+![Day 12 Screenshot](Day12/Day12.png)
