@@ -126,3 +126,12 @@ Built:
 - Styled list and overflow container inside UI  
 
 ![Day 12 Screenshot](Day12/Day12.png)
+
+## Day 13
+
+- CSS position (relative, absolute, fixed)
+
+Built:
+- Card layout with image, tags and button
+
+![Day 13 Screenshot](Day13/Day13.png)
