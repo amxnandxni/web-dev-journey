@@ -135,3 +135,14 @@ Built:
 - Card layout with image, tags and button
 
 ![Day 13 Screenshot](Day13/Day13.png)
+
+## Day 14
+
+- CSS variables  
+- Media queries  
+- Responsive card layout  
+
+Built:
+- Multi-card responsive layout with overflow and styled lists  
+
+![Day 14 Screenshot](Day14/Day14.png)
