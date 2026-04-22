@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    position: sticky;
+    top: 0px;
+}
+body{
+    background-color: white;
+}
+.navbar{
+    border: 2px solid black;
+    height: 28px;
+    background-color: darkgrey;
+    font-size: 20px;
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+}
+.navbar li a:hover{
+    background-color:papayawhip;
+    border-radius: 15px;
+}
+main{
+    background-color:khaki;
+    padding: 34px;
+}
+.container{
+    background-color: bisque;
+    display: flex;
+    margin: 10px;
+    padding: 10px 12px;
+    border: 2px solid black;
+    border-radius: 5px;
+    justify-content: center;
+}
+.box1{
+    width: 30vw;
+    height: 90vh;
+    margin: 5px;
+    padding: 20px;
+    border: 2px solid grey;
+    border-radius: 4px;
+    line-height: 1.6;
+}
+.box2{
+    width: 30vw;
+    height: 90vh;
+    margin: 5px;
+    padding: 20px;
+    border: 2px solid grey;
+    border-radius: 4px;
+    line-height: 1.6;
+}
+.list{
+    list-style-type: decimal;
+    padding: 5px;
+}
+.box3{
+    margin: 0 30vw;
+    padding: 34px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.circle{
+    background-color:black;
+    position:fixed;
+    bottom: 12px;
+    right: 23px;
+    width: 33px;
+    height:33px;
+    border-radius: 33px;
+}
+footer{
+    height: 5vh;
+    padding-top: 10px;
+    background-color:goldenrod;
+    text-align: center;
+}
