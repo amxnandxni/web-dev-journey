@@ -146,3 +146,13 @@ Built:
 - Multi-card responsive layout with overflow and styled lists  
 
 ![Day 14 Screenshot](Day14/Day14.png)
+
+## Day 15
+
+- CSS float and clear  
+- Advanced CSS selectors  
+
+Built:
+- Multi-section webpage layout using float and positioning 
+
+![Day 15 Screenshot](Day15/Day15.png)
