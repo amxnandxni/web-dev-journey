@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    border: 2px solid black;
+    background-color: grey;
+    border-radius: 5px;
+}
+.logo{
+    color: beige;
+}
+.links{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+.links a{
+    text-decoration: none;
+    color: beige;
+    font-size: 18px;
+}
+a:hover{
+    background-color: darkslategray;
+    padding: 10px;
+    border-radius: 20px;
+}
+main{
+    background-color: dimgrey;
+    height: 82.7vh;
+}
+.container{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    border: 2px solid dimgray;
+    border-radius: 5px;
+    gap: 90px;
+    flex-wrap: wrap;
+}
+.card1{
+    background-color:burlywood;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+}
+.card2{
+    background-color:darkolivegreen;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+}
+.card3{
+    background-color:goldenrod;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+}
+footer{
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    font-size: 18px;
+    color: beige;
+    justify-content: center;
+}
