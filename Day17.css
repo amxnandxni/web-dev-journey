@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding:0;
+    line-height: 1.4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head{
+    display: flex;
+    background-color: yellow;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.navbar{
+    display: flex;
+    background-color: #f6f6f6;
+    border-color: #cecece;
+    border-radius: 4px 4px 4px 4px;
+    align-items: center;
+    justify-content: space-around
+    
+}
+.logo img{
+    width: 170px;
+}
+.item{
+    display: flex;
+    gap: 50px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.item li {
+    list-style: none;
+}
+.item li a{
+    text-decoration: none;
+    color: #666;
+}
+.item li a:hover{
+    background-color: #cecece;
+    border-radius: 4px;
+}
+.btn{
+    background-color: yellow;
+    border: yellow;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 2px;
+    width: 80px;
+    height: 30px;
+}
+.btn a{
+    text-decoration: none;
+}
+.btn a:hover{
+    background-color: #cecece;
+    padding: 3px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.container h1{
+    text-align: center;
+    font-size: 48px;
+    width: 100vw;
+}
+.container p{
+    text-align: center;
+    font-size: 25px;
+    width: 40%;
+}
+.bttn{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.button{
+    background-color: #ffd741;
+    align-items: center;
+    height: 70px;
+    width: 200px;
+}
+.button a{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.cap{
+    display: flex;
+    justify-content: center;
+    color: #666;
+}
+.cap caption{
+    gap: -10px;
+    color: #666;
+}
+footer{
+    margin-top: 50px;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    max-width: 2000px;
+    align-items: flex-start;
+    background-color: #232323;
+    height: 90px;
+    color: #f6f6f6;
+    margin: 20px;
+}
+.foot img{
+    margin: 20px;
+}
+.foot h2{
+    margin: 20px;
+    font-size: 25px;
+}
+.foot div{
+    margin: 20px;
+    font-size: 16px;
+}
