@@ -156,3 +156,13 @@ Built:
 - Multi-section webpage layout using float and positioning 
 
 ![Day 15 Screenshot](Day15/Day15.png)
+## Day 17
+
+- Learned CSS Grid basics  
+- Practiced layout by cloning a real website  
+
+Built:
+- Website clone layout  
+- Basic grid layout practice  
+
+![Day 17 Screenshot](Day17/Day17.png)
