@@ -178,3 +178,13 @@ Built:
 - Basic grid layout practice  
 
 ![Day 17 Screenshot](Day17/Day17.png)
+
+## Day 18
+
+- Practiced CSS Grid deeply  
+- Built layout with sidebar, hero section, and cards  
+
+Built:
+- Full page layout using grid (no flex)
+
+![Day 18 Screenshot](Day18/Day18.png)
