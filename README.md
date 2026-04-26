@@ -156,6 +156,18 @@ Built:
 - Multi-section webpage layout using float and positioning 
 
 ![Day 15 Screenshot](Day15/Day15.png)
+
+## Day 16
+
+- Flexbox fundamentals  
+- justify-content & align-items  
+- flex-direction & flex-wrap  
+
+Built:
+- Navbar and card layout using Flexbox  
+
+![Day 16 Screenshot](Day16/Day16.png)
+
 ## Day 17
 
 - Learned CSS Grid basics  
