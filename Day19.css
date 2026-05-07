@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hood{
+    display: flex;
+    background-color: #ffd741;
+    height: 30px;
+    justify-content:center;
+    align-items: center;
+    gap: 10px;
+}
+.hood .strong{
+    font-weight: bolder;
+}
+.hood .buy a{
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.navbar{
+    display: flex;
+    background-color: #f6f6f6;
+    border-color: #cecece;
+    border-radius: 4px 4px 4px 4px;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar .logo img{
+    width: 170px;
+}
+.option{
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+    gap: 50px;
+}
+.option li{
+    list-style: none;
+}
+.option li a{
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    display: flex;
+    background-color: #ffd741;
+    height: 45px;
+    width: 120px;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bolder;
+    border: #ffd741;
+}
+.btn a{
+    text-decoration: none;
+    color: black;
+}
+button:hover{
+    background-color: #cecece;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+    justify-content: center;
+    gap: 30px;
+    padding: 40px;
+}
+.card{
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+.bluebtn{
+    background-color: #00b6d1;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.greenbtn{
+    background-color: #5cb85c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bluebtn:hover,
+.greenbtn:hover{
+    opacity: 0.8;
+}
+.foot{
+    display: flex;
+    background-color: black;
+    color: #cecece;
+    justify-content: space-around;
+    align-items: center;
+    height: 14.5vh;
+}
+.edit{
+    height: 100px;
+}
+.foot .note{
+    font-size: 25px;
+}
+.foot .subnote{
+    font-size: large;
+}
+.foot .copy{
+    font-size: large;
+}
