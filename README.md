@@ -188,3 +188,13 @@ Built:
 - Full page layout using grid (no flex)
 
 ![Day 18 Screenshot](Day18/Day18.png)
+
+## Day 19
+
+- Revised CSS Grid carefully  
+- Practiced building structured layouts using Grid  
+
+Built:
+- UltraEdit download page clone using CSS Grid
+
+![Day 19 Screenshot](Day19/Day19.png)
