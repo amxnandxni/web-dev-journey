@@ -198,3 +198,13 @@ Built:
 - UltraEdit download page clone using CSS Grid
 
 ![Day 19 Screenshot](Day19/Day19.png)
+
+## Day 20
+
+- CSS transform and transition  
+- Hover effects and smooth animations  
+
+Built:
+- Interactive card with button hover effects and transitions
+
+![Day 20 Screenshot](Day20/Day20.png)
