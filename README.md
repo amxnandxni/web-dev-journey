@@ -208,3 +208,13 @@ Built:
 - Interactive card with button hover effects and transitions
 
 ![Day 20 Screenshot](Day20/Day20.png)
+
+## Day 21
+
+- CSS animations and keyframes
+- Transform and transition effects
+- Smooth hover interactions
+
+Built:
+-Animated card and bounce ball animation
+![Day 21 Screenshot](Day21/Day21.png)
