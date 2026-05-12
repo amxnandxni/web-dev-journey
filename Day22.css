@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.alert{
+    display: flex;
+    background-color: darkslateblue;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    height: 5vh;
+    color: white;
+}
+.navbar{
+    display: flex;
+    background-color: white;
+    border: 2px solid black;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    border-radius: 5px;
+}
+.logo{
+    height: 70px;
+}
+.option{
+    display: flex;
+    padding: 12px 70px;
+    gap: 40px;
+}
+.option li{
+    list-style: none;
+}
+.option li a{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+li a:hover{
+    color: darkslateblue;
+    text-decoration: underline;
+}
+.hero{
+    height: 30vw;
+    background-image: url(https://imgs.search.brave.com/K2T-tPv4Z8Ssx-g6r5Fe5sTEcOUB4bNQhQvg_eVZGJs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDYv/ODYxLzE1NC9zbWFs/bC9saWdodC1ibHVl/LWJhY2tncm91bmQt/Z3JhZGllbnQtaWxs/dXN0cmF0aW9uLWVw/czEwLXZlY3Rvci5q/cGc);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.overlay{
+    padding: 40px;
+    text-align: center;
+    line-height: 3;
+    font-size: larger;
+}
+.btn{
+    border: none;
+    color: white;
+    background-color: #2563eb;
+    font-size: large;
+    padding: 12px 10px;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+.btn:hover{
+    transform: scale(1.05);
+    background-color: black;
+}
+.overlay{
+    animation: fadeup 1s ease;
+}
+.card{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    width: 90%;
+    height: 35vh;
+    margin: 30px auto;
+    background-color: azure;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+}
+.card:hover{
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+.card img{
+    height: 120px;
+}
+.card .tags{
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+}
+.card .btn1{
+    border: none;
+    background-color: #2563eb;
+    color: white;
+    padding: 12px 18px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+.btn1:hover{
+    background-color: black;
+    transform: scale(1.05);
+}
+.skills{
+    border: 1px solid black;
+    text-align: center;
+    margin: 30px auto;
+    border-radius: 10px;
+    width: 90%;
+}
+.skills h2{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.skillgrid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.skillbox{
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: large;
+    transition: all 0.3s ease;
+}
+.skillbox:hover{
+    transform: translateY(-8px);
+    background-color: #2563eb;
+    color: white;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: #111827;
+    padding: 10px 10px;
+}
+footer h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+footer p{
+    color: #d1d5db;
+    margin-bottom: 10px;
+}
+.footlink{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.footlink a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+.footlink a:hover{
+    color: #60a5fa;
+    transform: translateY(-2px);
+}
