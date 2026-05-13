@@ -218,3 +218,18 @@ Built:
 Built:
 -Animated card and bounce ball animation
 ![Day 21 Screenshot](Day21/Day21.png)
+
+## Day 22
+
+Final CSS revision project using:
+- Flexbox
+- Grid
+- CSS Animations
+- Transitions
+- Background Image
+- Object Fit
+- Filters
+
+![Day22 Screenshot](Day22/Day22a.png)
+![Day22 Screenshot](Day22/Day22b.png)
+
