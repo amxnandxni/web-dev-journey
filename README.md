@@ -233,3 +233,15 @@ Final CSS revision project using:
 ![Day22 Screenshot](Day22/Day22a.png)
 ![Day22 Screenshot](Day22/Day22b.png)
 
+## Day 23
+
+Built the first section of a Netflix website clone using HTML and CSS.
+
+Built:
+- Netflix-style navbar
+- Hero section
+- Email input section
+- Gradient divider effect
+
+### Preview
+![Netflix Clone](Day23/Day23.png)
