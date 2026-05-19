@@ -245,3 +245,17 @@ Built:
 
 ### Preview
 ![Netflix Clone](Day23/Day23.png)
+
+## Day 24
+
+Built the second section of my Netflix Homepage clone using HTML and CSS.
+
+Built:
+- Trending movie section
+- Number overlay on movie cards
+- Horizontal movie layout
+- Flexbox layout
+- Hover effects and spacing improvements
+
+### Preview
+![Netflix Clone](Day24/Day24.png)
