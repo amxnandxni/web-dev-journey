@@ -259,3 +259,17 @@ Built:
 
 ### Preview
 ![Netflix Clone](Day24/Day24.png)
+
+## Day 25
+
+## Netflix Homepage Clone
+Built:
+- Reponsive Design using media queries
+- Hero sections with background overlay
+- Trending movies section
+- FAQ accordion Layout
+- Hover Effects and Transitions
+
+### Preview
+![Day25 Netflix](Day25/Day25-a.png)
+![Day 25 Netflix](Day25/Day25-b.png)
