@@ -273,3 +273,28 @@ Built:
 ### Preview
 ![Day25 Netflix](Day25/Day25-a.png)
 ![Day 25 Netflix](Day25/Day25-b.png)
+
+# JavaScript Basics - Day 26
+
+Today I started learning JavaScript fundamentals.
+
+## Topics Covered
+- console.log()
+- Variables: var, let, const
+- Difference between var and let
+- Primitive data types
+- Objects in JavaScript
+- typeof operator
+
+## Practice Exercises
+- String + number concatenation
+- Checking datatypes
+- Working with const objects
+- Adding new object properties
+- Creating a small dictionary object
+
+## Learning Goal
+Building a strong JavaScript foundation before moving into DOM manipulation and advanced concepts.
+
+## Preview
+![Day26 screenshot](Day26/Day26.png)
