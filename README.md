@@ -298,3 +298,20 @@ Building a strong JavaScript foundation before moving into DOM manipulation and 
 
 ## Preview
 ![Day26 screenshot](Day26/Day26.png)
+
+## JavaScript Basics - Day 27
+Practiced JavaScript fundamentals including:
+
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Expressions
+- If-Else Statements
+- Switch Case
+- Ternary Operators
+completed an exercise using operators
+
+## Preview
+
+![Day27 screenshot](Day27/Day27js.png)
