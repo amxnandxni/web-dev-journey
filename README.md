@@ -315,3 +315,25 @@ completed an exercise using operators
 ## Preview
 
 ![Day27 screenshot](Day27/Day27js.png)
+
+## Day 29
+
+### Topics Revised
+- var, let, const
+- Scope
+- Hoisting
+- Primitive vs Reference Types
+- Dynamic Typing
+- Type Coercion
+- Truthy and Falsy Values
+- typeof operator
+- null vs undefined
+
+### Practice
+- Output prediction exercises
+- Variable and scope examples
+- Type checking examples
+
+### Preview
+
+![Day29 screenshot](Day29/Day29.png)
