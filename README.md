@@ -337,3 +337,32 @@ completed an exercise using operators
 ### Preview
 
 ![Day29 screenshot](Day29/Day29.png)
+
+## Day 30
+
+### Topics Learned
+
+#### Operators
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- typeof Operator
+- Ternary Operator
+
+#### Control Flow
+- if statements
+- else if statements
+- else statements
+- switch statements
+- break keyword
+- switch fallthrough concept
+
+### Practice
+- Logic condition exercises
+- Ternary operator examples
+- Decision making programs
+
+### Preview
+
+![Day30 screenshot](Day30/Day30.png)
