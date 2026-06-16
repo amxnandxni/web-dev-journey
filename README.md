@@ -366,3 +366,21 @@ completed an exercise using operators
 ### Preview
 
 ![Day30 screenshot](Day30/Day30.png)
+
+## Day 31
+### Topic Learned
+- for loop
+- while loop
+- do while loop
+- break statment
+- continue statement
+
+### Practice
+-solved 17 practice questions
+-Implemented counting patterns
+-Practiced loop control using break and continue 
+
+### Preview
+![Day 31 screenshots](Day31/Day31-a.png)
+![Day 31 screenshots](Day31/Day31-b.png)
+![Day 31 screenshots](Day31/Day31-c.png)
