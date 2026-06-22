@@ -384,3 +384,25 @@ completed an exercise using operators
 ![Day 31 screenshots](Day31/Day31-a.png)
 ![Day 31 screenshots](Day31/Day31-b.png)
 ![Day 31 screenshots](Day31/Day31-c.png)
+
+## Day 32
+### Topics Learned
+
+- Function Declaration
+- Function Expressions
+- Arrow Functions
+- Return Values
+- Paramenters and Arguments
+- First-Class Functions
+- Higher-order Functions
+- Pure vs Imprure Functions
+- Closures and Lexical scope
+- IIFE
+- Function Hoisting
+
+### Practice
+- Solved 18 JS Function Questions
+- Practice creating resusable functions
+
+### PReview
+![Day 32 screenshot](Day32/Day32js.png)
