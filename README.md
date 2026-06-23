@@ -406,3 +406,24 @@ completed an exercise using operators
 
 ### PReview
 ![Day 32 screenshot](Day32/Day32js.png)
+
+## Day 33
+### Topics covered:
+
+- Creating, accessing, and modifying arrays
+- push(), pop(), shift(), unshift()
+- splice() vs slice()
+- reverse() and sort()
+- map(), filter(), reduce()
+- find(), some(), every()
+- Array destructuring
+- Spread operator (...)
+
+I also explored some common array-related confusions such as:
+
+- splice vs slice
+- map vs forEach
+- How sort() behaves with numbers
+
+### Preview
+![Day 33 screenshot](Day33/Day33js.png)
