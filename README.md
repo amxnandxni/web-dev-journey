@@ -427,3 +427,41 @@ I also explored some common array-related confusions such as:
 
 ### Preview
 ![Day 33 screenshot](Day33/Day33js.png)
+
+# Day 34 - JavaScript Mini Projects
+
+Today I applied the JavaScript fundamentals I've learned by building three beginner console-based projects.
+
+## Projects
+
+### 🧮 Calculator
+- User input using prompt()
+- Arithmetic operations
+- Conditional statements
+- Functions
+
+### 🎓 Student Marks Management System
+- Objects
+- Functions
+- Grade calculation
+- Percentage calculation
+
+### 🏦 Simple Banking System
+- Objects
+- Deposit and withdrawal
+- Balance checking
+- Conditional logic
+- Functions
+
+## Concepts Practiced
+
+- Variables
+- Objects
+- Functions
+- Parameters & Return Values
+- if-else
+- Operators
+- prompt() and console.log()
+- Problem Solving
+
+Today's goal wasn't to learn a new topic—it was to strengthen my JavaScript fundamentals by building small projects.
