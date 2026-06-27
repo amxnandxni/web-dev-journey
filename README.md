@@ -434,19 +434,19 @@ Today I applied the JavaScript fundamentals I've learned by building three begin
 
 ## Projects
 
-### 🧮 Calculator
+###  Calculator
 - User input using prompt()
 - Arithmetic operations
 - Conditional statements
 - Functions
 
-### 🎓 Student Marks Management System
+###  Student Marks Management System
 - Objects
 - Functions
 - Grade calculation
 - Percentage calculation
 
-### 🏦 Simple Banking System
+###  Simple Banking System
 - Objects
 - Deposit and withdrawal
 - Balance checking
@@ -465,3 +465,17 @@ Today I applied the JavaScript fundamentals I've learned by building three begin
 - Problem Solving
 
 Today's goal wasn't to learn a new topic—it was to strengthen my JavaScript fundamentals by building small projects.
+
+## Day 35 - JavaScript DOM Fundamentals
+
+### Topic covered:
+
+- DOM Tree Structure
+- Selcting elements
+- innerText, textContent, and innerHTML
+- Attribute manipluation
+- Creating and removing elements dynamically
+- Updating styles using.style and classList
+
+### Preview:
+![Day 35 screenshot](Day35/Day35.png).
