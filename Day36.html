@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Handling</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Glirock', sans-serif;   ;
+        }
+        div{
+            display: flexbox;
+            justify-content: center;
+            align-items: center;
+        }
+        #main{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        input{
+            display: none;
+        }
+        #file{
+            margin-top: 10%;
+            padding: 12px 22px;
+            background-color: grey;
+            border-radius: 6px;
+            font-weight: bold;
+            user-select: none;
+        }
+        #file:hover{
+            background-color: darkslategray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Click Me</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia laudantium corrupti ad.</p>
+    <input type="text" placeholder="name">
+    <h2 id="device">Select Your Device</h2>
+    <select>
+        <option selected disabled>Choose Your device</option>
+        <option value="Apple">Iphone</option>
+        <option value="Samsung">Samsung</option>
+        <option value="Oppo">Oppo</option>
+        <option value="Vivo">Vivo</option>
+        <option value="Nothing">Nothing</option>
+    </select>
+    <div>
+    <h1 id="heading">a</h1>
+    </div>
+    <div id="main">
+        <input type="file" name="" id="fileinp">
+        <div id="file"> Upload File</div>
+    </div>
+    <script src="Day36.js"></script>
+</body>
+</html>
