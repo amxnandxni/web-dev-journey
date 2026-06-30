@@ -479,3 +479,14 @@ Today's goal wasn't to learn a new topic—it was to strengthen my JavaScript fu
 
 ### Preview:
 ![Day 35 screenshot](Day35/Day35.png).
+
+## Day 36
+
+### Topic Covered -
+
+- Event Binding with addEventListener()
+- Common Events: click, input and change
+- Practiced handling user interactions through small DOM Exercise.
+
+### Preview
+![Day 36 screenshot](Day36/Day36.png)
